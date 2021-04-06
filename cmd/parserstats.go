@@ -1,4 +1,4 @@
-package parsestats
+package parserstats
 
 import (
 	"bufio"
