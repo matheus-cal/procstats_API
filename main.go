@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"parsestats"
 )
 
 func main() {
